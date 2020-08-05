@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 778e0801c79ce244597fe1b32f1ee4a6, type: 3}
+  m_Name: Hinder
+  m_EditorClassIdentifier: 
+  name: Hinder
+  description: Strong winds that hinder the ability of your opponent.
+  icon: {fileID: 21300000, guid: 84daee33131b2a643ac231210bb47962, type: 3}
+  type: 4
+  enemyInflictedStatus: 6
+  selfInflictedStatus: 0
+  damage: 0
+  castTime: 105
